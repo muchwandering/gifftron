@@ -1,1 +1,0 @@
-<table border="0"><tr>  <td><a href="https://gittron.me/bots/0xee9b727a66a03301c9fe516fcaacf6a4"><img src="https://s3.amazonaws.com/od-flat-svg/0xee9b727a66a03301c9fe516fcaacf6a4.png" alt="gittron" width="50"/></a></td><td><a href="https://gittron.me/bots/0xee9b727a66a03301c9fe516fcaacf6a4">SUPPORT US WITH GITTRON</a></td></tr></table>
